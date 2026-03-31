@@ -83,7 +83,7 @@ Ref: https://github.com/othneildrew/Best-README-Template/edit/master/README.md
 
 
 <!-- ABOUT THE PROJECT -->
-# ML/DL project - State Estimation of Li-ion_Batteries
+# ML/DL project - State Estimation of Li-ion Batteries
 
 # About the project
 
