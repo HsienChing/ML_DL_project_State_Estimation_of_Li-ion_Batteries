@@ -193,17 +193,20 @@ Now we can use `TensorFlow` via `JupyterLab` in Python3 venv of WSL2-Linux.
 System: In Python3 venv of WSL2-Linux  
 Environment based installation
 
-Install `JupyterLab`
+Install `JupyterLab`  
+REF: https://jupyter.org/
 ```
 pip install jupyterlab
 ```
 
-Install `scikit-learn`
+Install `scikit-learn`  
+REF: https://scikit-learn.org/stable/  
 ```
 pip install scikit-learn
 ```
 
-Install `pandas`
+Install `pandas`  
+REF: https://pandas.pydata.org/
 ```
 pip install pandas
 ```
