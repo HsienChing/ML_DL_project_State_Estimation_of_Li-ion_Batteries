@@ -210,3 +210,9 @@ Install `numpy` (this application will be installed while installing `scikit-lea
 ```
 pip numpy
 ```
+
+Install `matplotlib`  
+https://matplotlib.org/  
+```
+pip install matplotlib
+```
