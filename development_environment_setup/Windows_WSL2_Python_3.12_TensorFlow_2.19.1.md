@@ -209,6 +209,7 @@ Install `pandas`
 REF: https://pandas.pydata.org/
 ```
 pip install pandas
+pip install "pandas[excel]"
 ```
 
 Install `numpy` (this application will be installed while installing `scikit-learn`)  
