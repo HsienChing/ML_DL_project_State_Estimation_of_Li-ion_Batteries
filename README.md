@@ -127,6 +127,7 @@ To get a local copy up and running follow these simple example steps.
 # Development environment setup
 1. [Windows_WSL2_Python_3.12_TensorFlow_2.19.1](/development_environment_setup/Windows_WSL2_Python_3.12_TensorFlow_2.19.1.md)
 2. [TensorFlow_installation_verfication.ipynb](/development_environment_setup/TensorFlow_installation_verfication.ipynb)
+3. [Check_accelerator_hardware_like_GPUs.ipynb](/development_environment_setup/Check_accelerator_hardware_like_GPUs.ipynb)
 
 
 
