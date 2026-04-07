@@ -129,6 +129,11 @@ To get a local copy up and running follow these simple example steps.
 2. [TensorFlow_installation_verfication.ipynb](/development_environment_setup/TensorFlow_installation_verfication.ipynb)
 3. [Check_accelerator_hardware_like_GPUs.ipynb](/development_environment_setup/Check_accelerator_hardware_like_GPUs.ipynb)
 
+# Supplementary materials
+1. [NumPy_interactive_quickstart.ipynb](/supplementary_materials/NumPy_interactive_quickstart.ipynb)
+
+
+
 
 
 <!-- LICENSE -->
