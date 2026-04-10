@@ -174,22 +174,26 @@ Condition: see correct message
 This means that TensorFlow has successfully detected the GPU, and WSL2 + CUDA + `TensorFlow` are all running normally.
 
 # 4. Use `TensorFlow` via `JupyterLab`
-System: In Python3 venv of WSL2-Linux  
+ 
 Use `TensorFlow` via `JupyterLab` in Python3 venv of WSL2-Linux  
+
+1. 
+System: In WSL2-Linux  
 ```
-python3 -m venv ml
-source ml/bin/activate
+python3 -m venv ml        # Create the virtual environment: ml
+source ml/bin/activate    # Activate a virtual environment: ml
 ```
 
-Go to the `JupyterLab` working directory
+2. Go to the `JupyterLab` working directory  
+System: In Python3 venv of WSL2-Linux  
 ```
 cd <JupyterLab working directory>
-jupyter lab
+jupyter lab               # Open Jupyter Lab
 ```
 
 Now we can use `TensorFlow` via `JupyterLab` in Python3 venv of WSL2-Linux.
 
-# 5. Install related applications
+# 5. Install related libraries/applications
 System: In Python3 venv of WSL2-Linux  
 Environment based installation
 
