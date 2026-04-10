@@ -177,7 +177,7 @@ This means that TensorFlow has successfully detected the GPU, and WSL2 + CUDA + 
  
 Use `TensorFlow` via `JupyterLab` in Python3 venv of WSL2-Linux  
 
-1. Create and activate the Python virtual environment
+1. Create and activate the Python virtual environment  
 System: In WSL2-Linux  
 ```
 python3 -m venv ml        # Create the Python virtual environment: ml
@@ -190,6 +190,7 @@ System: In Python3 venv of WSL2-Linux
 cd <JupyterLab working directory>
 jupyter lab               # Open Jupyter Lab
 ```
+Note: If `JupyterLab` is not installed, please install it before using it.
 
 Now we can use `TensorFlow` via `JupyterLab` in Python3 venv of WSL2-Linux.
 
