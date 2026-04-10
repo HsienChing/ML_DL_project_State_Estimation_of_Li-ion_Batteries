@@ -105,9 +105,9 @@ Solving a machine learning problem usually consists of the following steps:
 1. Obtain training data.
 2. Define the model.
 3. Define a loss function.
-4. Run through the training data, calculating loss from the ideal value
+4. Run through the training data, calculating loss from the ideal value.
 5. Calculate gradients for that loss and use an optimizer to adjust the variables to fit the data.
-6. Evaluate your results.
+6. Evaluate the results.
 
 # Usage
 
