@@ -138,6 +138,10 @@ To get a local copy up and running follow these simple example steps.
 3. [Check_accelerator_hardware_like_GPUs.ipynb](/development_environment_setup/Check_accelerator_hardware_like_GPUs.ipynb)
 
 # Supplementary materials
+**Fundamental knowledge:**  
+1. [Epoch, Batch, Batch size, Weight Update, and Iteration](/main/supplementary_materials/Epoch_Batch_Iteration.ipynb)
+
+**Technical references:**  
 1. [NumPy_interactive_quickstart.ipynb](/supplementary_materials/NumPy_interactive_quickstart.ipynb)
 
 
