@@ -137,6 +137,10 @@ To get a local copy up and running follow these simple example steps.
 2. [TensorFlow_installation_verfication.ipynb](/development_environment_setup/TensorFlow_installation_verfication.ipynb)
 3. [Check_accelerator_hardware_like_GPUs.ipynb](/development_environment_setup/Check_accelerator_hardware_like_GPUs.ipynb)
 
+# Example problems
+1. [Simple Linear Regression](/example_problems/ML_Example_01.ipynb)
+2. [Linear Regression](/example_problems/ML_Example_02.ipynb)
+
 # Supplementary materials
 **Fundamental knowledge:**  
 1. [Epoch, batch, batch size, weight update, and iteration](/supplementary_materials/Epoch_Batch_Iteration.ipynb)
