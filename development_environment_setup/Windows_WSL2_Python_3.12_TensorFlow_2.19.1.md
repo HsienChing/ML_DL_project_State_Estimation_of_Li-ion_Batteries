@@ -228,3 +228,8 @@ REF: https://matplotlib.org/
 ```
 pip install matplotlib
 ```
+
+Install `seaborn`
+```
+pip install seaborn
+```
