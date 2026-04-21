@@ -148,10 +148,10 @@ To get a local copy up and running follow these simple example steps.
 3. [Gradient descent](/supplementary_materials/Gradient_descent.ipynb)
 
 **Technical references:**  
-1. [NumPy_interactive_quickstart.ipynb](/supplementary_materials/NumPy_interactive_quickstart.ipynb)
+1. [NumPy_interactive_quickstart](/supplementary_materials/NumPy_interactive_quickstart.ipynb)
 
-
-
+**Learning resources:**  
+1. [Learning resources](/supplementary_materials/Learning_resources.ipynb)
 
 
 <!-- LICENSE -->
