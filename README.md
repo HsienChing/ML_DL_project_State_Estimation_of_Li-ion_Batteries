@@ -146,6 +146,7 @@ To get a local copy up and running follow these simple example steps.
 1. [Epoch, batch, batch size, weight update, and iteration](/supplementary_materials/Epoch_Batch_Iteration.ipynb)
 2. [Linear regression](/supplementary_materials/Linear_regression.ipynb)
 3. [Gradient descent](/supplementary_materials/Gradient_descent.ipynb)
+4. [Normalization and standardization](/supplementary_materials/Normalization_and_Standardization.ipynb)
 
 **Technical references:**  
 1. [NumPy_interactive_quickstart](/supplementary_materials/NumPy_interactive_quickstart.ipynb)
