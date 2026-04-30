@@ -230,6 +230,7 @@ pip install matplotlib
 ```
 
 Install `seaborn`
+REF: https://seaborn.pydata.org/  
 ```
 pip install seaborn
 ```
