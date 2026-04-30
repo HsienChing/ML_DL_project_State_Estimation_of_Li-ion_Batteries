@@ -171,6 +171,9 @@ To get a local copy up and running follow these simple example steps.
 **Learning resources:**  
 1. [Learning resources](/supplementary_materials/Learning_resources.ipynb)
 
+**About Li-ion batteries**  
+1. [Charge and discharge profiles of repurposed LiFePO<sub>4</sub> batteries based on the UL 1974 standard](https://doi.org/10.1038/s41597-021-00954-3)
+2. [The long-term usage of an off-grid photovoltaic system with a lithium-ion battery-based energy storage system on high mountains: a case study in Paiyun Lodge on Mt. Jade in Taiwan](https://doi.org/10.3390/batteries10060202)
 
 <!-- LICENSE -->
 # License
