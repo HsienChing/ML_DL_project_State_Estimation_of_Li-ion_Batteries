@@ -87,9 +87,14 @@ Ref: https://github.com/othneildrew/Best-README-Template/edit/master/README.md
 
 # About the project
 
-Use Machine Learning (ML) / Deep Learning (DL) to study the state of Li-ion batteries.
+**Use Machine Learning (ML) / Deep Learning (DL) to study the state of Li-ion batteries.**
 
+State estimation of lithium-ion (Li-ion) batteries is not an easy task in the traditional theoretical framework. 
+Especially for packed battery cells containing thousands of cells, the thermo-effect, aging, and high C-rate charging/discharging make the state estimation more difficult. 
 
+Data-driven approaches, such as Machine Learning (ML) / Deep Learning (DL), become an appropriate pathway to deal with the state estimation (e.g., state of charge (SOC) and state of health (SOH)).
+
+In this project, `time series forecasting` using `TensorFlow` is demonstrated to estimate the states of Li-ion batteries.
 
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -99,6 +104,18 @@ Use Machine Learning (ML) / Deep Learning (DL) to study the state of Li-ion batt
 
 
 # Purpose / Procedure
+
+In this project, `time series forecasting` using `TensorFlow` is demonstrated to estimate the states of Li-ion batteries. 
+It builds a few different styles of models, including Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs).
+
+This is covered in two main parts, with subsections:
+
+1. Forecast for a single time step:
+    1. A single feature.
+    2. All features.
+2. Forecast multiple steps:
+    1. Single-shot: Make the predictions all at once.
+    2. Autoregressive: Make one prediction at a time and feed the output back to the model.
 
 Solving a machine learning problem usually consists of the following steps:
 
